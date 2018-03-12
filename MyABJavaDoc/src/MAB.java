@@ -75,7 +75,7 @@ public class MAB {
 		frame.getContentPane().add(lblFirstName);
 					
 		txtFirstname = new JTextField();
-		txtFirstname.setText("Amy");
+		txtFirstname.setText("Bob");
 		txtFirstname.setBounds(147, 45, 86, 20);
 		frame.getContentPane().add(txtFirstname);
 		txtFirstname.setColumns(10);
@@ -91,7 +91,7 @@ public class MAB {
 		frame.getContentPane().add(lblLastName);
 				
 		txtLastname = new JTextField();
-		txtLastname.setText("Orange");
+		txtLastname.setText("Brown");
 		txtLastname.setBounds(147, 70, 86, 20);
 		frame.getContentPane().add(txtLastname);
 		txtLastname.setColumns(10);
